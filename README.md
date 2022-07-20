@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaffrene
-- 👀 I’m interested in ... UX Design
-- 🌱 I’m currently learning ... UX Design 
+- 👀 I’m interested in ... Software Development
+- 🌱 I’m currently learning ... HTML, CSS, Javascript, Python 
 - 💞️ I’m looking to collaborate on ... projects involving the user experience
 - 📫 How to reach me ... send me a message :)
 
